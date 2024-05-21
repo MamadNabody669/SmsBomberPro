@@ -1,0 +1,12 @@
+Pkg updage
+pkg upgrade
+
+
+pip install colorama
+pip install
+python -m pip install requests
+
+python smsbomber.py
+
+
+[x] Coded By MamadNabody6
